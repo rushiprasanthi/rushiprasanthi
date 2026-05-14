@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Bhavanarushi 👋
 
-<!--
-**rushiprasanthi/rushiprasanthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineering • Real-Time Systems • Automation • Intelligent Systems
 
-Here are some ideas to get you started:
+I’m an AI & DS student focused on building backend systems, automation pipelines, geospatial processing workflows, and real-time intelligent applications using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas I Work On
+- Backend Engineering
+- REST APIs
+- Real-Time Systems
+- Automation Pipelines
+- IoT Integration
+- Geospatial Processing
+- Intelligent Simulation Systems
+
+## Tech Stack
+- Python
+- Flask
+- FastAPI
+- MySQL
+- MongoDB
+- Git & GitHub
+- Linux
+- Docker (Basic)
+
+## Featured Projects
+
+### 🚑 Crash2Care
+Real-time ambulance traffic signal preemption system using Flask, GPS, and NodeMCU.
+
+### 🌊 IOS-RPMP
+Geospatial oil-spill simulation and marine risk-prioritization platform.
+
+### 📈 Stock Market Reporting System
+Automated stock-market reporting and news aggregation pipeline.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushiprasanthi&show_icons=true&theme=tokyonight)
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/bhavanarushi-parvatham
+- GitHub: https://github.com/rushiprasanthi
